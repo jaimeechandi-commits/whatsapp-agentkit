@@ -1,0 +1,28 @@
+# Configuración del negocio — Generado por AgentKit
+negocio:
+  nombre: "Automatizaciones Doppler"
+  descripcion: >
+    Agencia de automatización con inteligencia artificial para pequeños y medianos negocios (PyMEs).
+    Diseña e implementa sistemas que automatizan procesos clave: captación y seguimiento de leads,
+    atención al cliente con agentes inteligentes, gestión de ventas y CRM, automatización de marketing
+    e integración de herramientas (CRMs, plataformas de pago, calendarios, bases de datos).
+    Opera desde Mérida, Yucatán, México. Fundador: Jaime.
+    Tecnología base: Make.com + Claude AI (Anthropic) + Google Workspace.
+  horario: "24 horas, 7 días a la semana"
+  email: "jaime@dopplerdoppler.com"
+  whatsapp: "+52 999 640 31 24"
+  ubicacion: "Mérida, Yucatán, México"
+
+agente:
+  nombre: "Doppler"
+  tono: "Profesional, amigable y vendedor — directo, cercano y orientado a resultados"
+  casos_de_uso:
+    - "Calificar y atender leads / ventas"
+    - "Agendar citas o reuniones"
+    - "Responder preguntas frecuentes"
+    - "Soporte post-venta"
+    - "Captación y reactivación de oportunidades"
+
+metadata:
+  creado: "2026-05-04"
+  version: "1.0"
